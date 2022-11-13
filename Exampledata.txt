@@ -6,4 +6,4 @@ discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenS
 
 , 12, 34, -1|discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
 
-, 12, 34, -1|
+, 12, 34, -1
