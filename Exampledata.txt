@@ -1,6 +1,6 @@
-discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+discription text , http://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
 
-, 12, 34, -1|discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
+, 12, 34, -1|discription text , http://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
 
 , 12, 34, -1|discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
 
