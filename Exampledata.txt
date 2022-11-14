@@ -1,9 +1,11 @@
-discription text , http://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
 
-, 12, 34, -1|discription text , http://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
+, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
 
-, 12, 34, -1|discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
+, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
 
-, 12, 34, -1|discription text , ://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
+, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
 
-, 12, 34, -1
+, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
+
+, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/washingMachine.jpg, 12, 34, -1
