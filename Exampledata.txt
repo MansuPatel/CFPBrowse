@@ -1,11 +1,11 @@
-discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+Lovely green sofa , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
 
-, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
+, 12, 34, -1| tasty place to eat , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
 
-, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
+, 12, 34, -1|Artistictly beautiful draws , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
 
-, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
+, 12, 34, -1|Cooker for creating treats , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
 
-, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
+, 12, 34, -1|A team to be remembered , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
 
-, 12, 34, -1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/washingMachine.jpg, 12, 34, -1
+, 12, 34, -1|Washing machine without yet pedal power , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/washingMachine.jpg, 12, 34, -1
