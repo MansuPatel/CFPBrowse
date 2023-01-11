@@ -1,11 +1,29 @@
-Lovely green sofa , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
 
-, 12, 34, -1| tasty place to eat , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
+, 12, 34, -1, 0, 0|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
 
-, 12, 34, -1|Artistictly beautiful draws , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
+, 12, 34, -1, 1, 0|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
 
-, 12, 34, -1|Cooker for creating treats , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
+, 12, 34, -1, 2, 0|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
 
-, 12, 34, -1|A team to be remembered , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
+, 12, 34, -1, 3, 0|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
 
-, 12, 34, -1|Washing machine without yet pedal power , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/washingMachine.jpg, 12, 34, -1
+, 12, 34, -1, 4, 0|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+
+, 12, 34, -1, 0, 1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+
+, 12, 34, -1, 1, 1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+
+, 12, 34, -1, 2, 1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+
+, 12, 34, -1, 3, 1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+
+, 12, 34, -1, 4, 1|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
+
+, 12, 34, -1, 0, 2|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
+
+, 12, 34, -1, 1, 2|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
+
+, 12, 34, -1, 2, 2|discription text , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
+
+, 12, 34, -1, 3, 2
